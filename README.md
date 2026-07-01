@@ -1,0 +1,2 @@
+# MINDVESTT
+Conseillé partrimonial IA
