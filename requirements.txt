@@ -1,0 +1,6 @@
+streamlit>=1.32
+anthropic>=0.40
+plotly>=5.18
+pandas>=2.0
+requests>=2.31
+streamlit-option-menu>=0.3.12
